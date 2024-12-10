@@ -1,4 +1,4 @@
-# Users and Tasks Next web app
+# Users & Tasks Next Web App
 
 This app lets the user create an account to login. After that, he/she can keep track of his tasks.
 
@@ -14,10 +14,16 @@ This app lets the user create an account to login. After that, he/she can keep t
 
 ### ▶️ Run this project
 
-- run "npm install"
-- run "npm run dev"
-- On your browser submit "http://localhost:port"
+- Run "npm install"
+- Run "npm run dev"
+- On your browser submit "http://localhost:port" from your machine.
 
-### 👨🏼‍💻 About the developer
+### 👨🏼‍💻 About me
 
-My name is Francisco Guzmán. I am a Software Developer with 3 years of experience in the finance industry. I enjoy building features that users use. I also like building software that is easy to maintain and understand.
+My name is Francisco Guzman. I am a Software Developer with 3 years of experience in the finance industry. I enjoy building features that users use. I always contribute to make the software shipped easier to maintain and understand.
+
+### ✉️ Let's Connect!
+
+Want to chat about creating or adding features to a web or mobile app? Reach me out at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco123456789/) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:fguzman53000@gmail.com)

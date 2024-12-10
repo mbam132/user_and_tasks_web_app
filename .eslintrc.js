@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['plugin:@next/next/recommended'],
+  extends: ['avilatek-typescript', 'plugin:@next/next/recommended'],
   rules: {
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'react/jsx-props-no-spreading': 'off',
@@ -11,5 +11,16 @@ module.exports = {
     '@next/next/no-img-element': 'off',
     'react/function-component-definition': 'off',
     'react/no-unstable-nested-components': 'off',
+    'import/extensions': [
+      'error',
+      'ignorePackages',
+      {
+        js: 'never',
+        mjs: 'never',
+        jsx: 'never',
+        ts: 'never',
+        tsx: 'never',
+      },
+    ],
   },
 };
